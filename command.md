@@ -1,12 +1,12 @@
-# 설치
+### 설치
 npm install -g @vue/cli
 
-# 확장기능
+### 확장기능
 - Vetur
 - html css support
 - vue 3 snippets
 
-# npm 부가기능
+### npm 부가기능
 - npm fund
 - 설치항목 확인
     - npm ls -g
