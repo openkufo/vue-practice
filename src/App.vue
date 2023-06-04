@@ -2,7 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png">
 
   <div class="menu">
-    <a v-for="menu in menus" :key="menu"> {{ menu }} </a>
+    <a v-for="(menu,i) in menus" :key="menu"> {{ i }} : {{menu}} </a>
   </div>
 
   <div>
