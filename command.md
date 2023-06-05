@@ -13,3 +13,4 @@ npm install -g @vue/cli
     - npm ls -g --depth=0
 - 프로젝트 생성
     - vue create {프로젝트 명}
+- npm run surve
